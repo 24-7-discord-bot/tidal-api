@@ -12,7 +12,7 @@ class Tidal {
    */
   constructor(options = {}) {
     this.url = 'https://api.tidal.com/v1';
-    this.webToken = 'kgsOOmYk3zShYrNP';
+    this.webToken = 'gsFXkJqGrUNoYMQPZe4k3WKwijnrp8iGSwn3bApe';
     this.countryCode = options.countryCode || 'US';
     this.limit = options.limit || 1000;
     this.api = axios.create({

@@ -1,5 +1,5 @@
 {
-  "name": "@andreeckardt/tidal-api-wrapper",
+  "name": "@korve/tidal-api-wrapper",
   "version": "1.8.0",
   "description": "An unofficial API wrapper for Tidal Music",
   "main": "lib/index.js",
